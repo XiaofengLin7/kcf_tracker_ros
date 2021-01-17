@@ -82,7 +82,7 @@ rosrun kcf_target_tracker kcf_target_tracker
 
 and you will see 
 
-![My Camera_screenshot_17.01.2021](image/My Camera_screenshot_17.01.2021.png)
+![My Camera_screenshot_17.01.2021](./image/example.png)
 
 ## License
 
