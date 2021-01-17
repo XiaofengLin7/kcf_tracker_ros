@@ -77,7 +77,7 @@ rosrun kcf_target_tracker kcf_target_tracker
 
 会出现类似结果
 
-![My Camera_screenshot_17.01.2021](C:\Users\36923\Desktop\个人学习\KCF tracker\image\My Camera_screenshot_17.01.2021.png)
+![My Camera_screenshot_17.01.2021](image\example.png)
 
 ## License
 
