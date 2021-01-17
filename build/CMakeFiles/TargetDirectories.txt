@@ -1,0 +1,4 @@
+/home/dji/yolo_ws/src/target_tracking/build/CMakeFiles/edit_cache.dir
+/home/dji/yolo_ws/src/target_tracking/build/CMakeFiles/rebuild_cache.dir
+/home/dji/yolo_ws/src/target_tracking/build/CMakeFiles/kcf_tracker.dir
+/home/dji/yolo_ws/src/target_tracking/build/CMakeFiles/KCFTargetTracker.dir
